@@ -1,9 +1,10 @@
 # Nexus
 
-**Nexus** is a multiplayer launcher for **Dota 2: Dawn of War**, designed to make hosting and joining games easier.
+**Nexus** is a multiplayer launcher for **Dota 2: DAWN OF WAR**, designed to make hosting and joining games easier.
 
 ## ✨ Features
 
+- **Arcade Server Connectivity** — Provides server connectivity while playing DAWN OF WAR in Arcade lobbies.
 - **P2P Multiplayer** — Creates a local Dota 2 Dedicated Server host, allowing other players to join and play together through peer-to-peer (P2P) networking.
 - **Rank Restrictions** — Set minimum and maximum rank requirements when creating a lobby.
 - **Player Profiles** — View your personal profile, rank, and score.
@@ -49,4 +50,4 @@ Visit the [Releases](../../releases) page to download the latest version of Nexu
 
 ---
 
-**Have fun playing Dota 2: Dawn of War!**
+**Have fun playing Dota 2: DAWN OF WAR!**
