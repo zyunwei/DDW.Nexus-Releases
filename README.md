@@ -4,6 +4,7 @@
 
 ## ✨ Features
 
+- **Arcade Lobby Hosting** — Create Dota 2 Arcade lobbies directly from Nexus using a dedicated server. Other players can join through the in-game Arcade lobby list without installing Nexus.
 - **Arcade Server Connectivity** — Provides server connectivity while playing DAWN OF WAR in Arcade lobbies.
 - **P2P Multiplayer** — Creates a local Dota 2 Dedicated Server host, allowing other players to join and play together through peer-to-peer (P2P) networking.
 - **Rank Restrictions** — Set minimum and maximum rank requirements when creating a lobby.
